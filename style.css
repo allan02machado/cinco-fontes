@@ -1,0 +1,76 @@
+body{
+    font-style:normal;
+}
+
+main#caixaT{
+    background-color: black;
+}
+
+main#caixaF1{
+    background-color: black;
+}
+
+main#caixaF2{
+    background-color: black;
+}
+
+main#caixaF3{
+    background-color: black;
+}
+
+main#caixaF4{
+    background-color: black;
+}
+
+main#caixaF5{
+    background-color: black;
+}
+
+h1.titulo{
+    font-family: righteous;
+    text-align: center;
+    font-style:italic;
+    color: white;
+}
+
+h3.titulo{
+    text-align: center;
+    font-family: righteous;
+    font-style: italic;
+    color: black;
+}
+
+p.fonte1{
+    text-align: center;
+    font-family: roboto;
+    font-size: large;
+    color: white;
+}
+
+p.fonte2{
+    text-align: center;
+    font-family: flavors;
+    font-size: large;
+    color: white;
+}
+
+p.fonte3{
+    text-align: center;
+    font-family: satisfy;
+    font-size: large;
+    color: white;
+}
+
+p.fonte4{
+    text-align: center;
+    font-family: stick;
+    font-size: large;
+    color: white;
+}
+
+p.fonte5{
+    text-align: center;
+    font-family: dotgothic16;
+    font-size: large;
+    color: white;
+}
